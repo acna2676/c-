@@ -1,7 +1,11 @@
+#include<iostream>
+
+using namespace std;
+
 int main(){
 	
 	int array[] = {1,2,3,4,5};
-	int* array_ptr = null;
+	int* array_ptr = NULL;
 
 	array_ptr = array;
 

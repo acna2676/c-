@@ -34,5 +34,5 @@ int main()
  
     std::cout << tc3.get() << std::endl; //30
  
-    std::cin.get();
+    // std::cin.get();
 }
